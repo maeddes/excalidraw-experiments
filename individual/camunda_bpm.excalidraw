@@ -1,0 +1,219 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "cj261ACime-miJ7iMSe_9",
+      "type": "ellipse",
+      "x": 714.3671875,
+      "y": 218.078125,
+      "width": 557.6601562500001,
+      "height": 549.703125,
+      "angle": 0,
+      "strokeColor": "#c55124",
+      "backgroundColor": "#c55124",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 712489342,
+      "version": 249,
+      "versionNonce": 1350138942,
+      "isDeleted": false,
+      "boundElementIds": null
+    },
+    {
+      "id": "jCTTP9cTJoq38AACSFotO",
+      "type": "line",
+      "x": 943.7109375,
+      "y": 290.140625,
+      "width": 388.96484375,
+      "height": 413.03125,
+      "angle": 0,
+      "strokeColor": "#c55124",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 595314978,
+      "version": 4511,
+      "versionNonce": 1701509282,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          83.55078125,
+          -2.156250000000014
+        ],
+        [
+          81.7109375,
+          42.0859375
+        ],
+        [
+          131.01953124999997,
+          69.81249999999999
+        ],
+        [
+          170.53906250000003,
+          40.406250000000014
+        ],
+        [
+          227.23437500000003,
+          108.85546874999994
+        ],
+        [
+          188.89453125000009,
+          136.6171875
+        ],
+        [
+          199.77343750000003,
+          181.23046874999997
+        ],
+        [
+          246.37499999999997,
+          181.06640624999997
+        ],
+        [
+          246.47265624999997,
+          260.9375
+        ],
+        [
+          201.953125,
+          260.84765625
+        ],
+        [
+          183.30859374999994,
+          292.50390625
+        ],
+        [
+          212.98828125,
+          333.33203125
+        ],
+        [
+          156.7890625,
+          384.390625
+        ],
+        [
+          125.35156249999999,
+          350.0351562500001
+        ],
+        [
+          89.86328125000003,
+          365.62109375
+        ],
+        [
+          92.35546875,
+          409.3281250000001
+        ],
+        [
+          16.31640625,
+          410.875
+        ],
+        [
+          14.9609375,
+          369.17578125
+        ],
+        [
+          -16.03125,
+          352.3125
+        ],
+        [
+          -53.578125,
+          386.88671875
+        ],
+        [
+          -111.17968749999999,
+          329.19140625
+        ],
+        [
+          -79.25390624999994,
+          302.58203125
+        ],
+        [
+          -97.76953125,
+          264.85546875
+        ],
+        [
+          -139.19140625,
+          262.46875
+        ],
+        [
+          -142.4921875,
+          184.015625
+        ],
+        [
+          -103.67968750000001,
+          184.82421874999997
+        ],
+        [
+          -88.85546875,
+          139.96875
+        ],
+        [
+          -125.69140625,
+          117.40234374999997
+        ],
+        [
+          -75.15625,
+          46.64453125
+        ],
+        [
+          -36.644531249999986,
+          69.74609375
+        ],
+        [
+          0.93359375,
+          47.21484375
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "P4ISvB2SXtht1ELLBMB_y",
+      "type": "ellipse",
+      "x": 887.693359375,
+      "y": 390.16015625,
+      "width": 217.28125,
+      "height": 220.02734374999997,
+      "angle": 0,
+      "strokeColor": "#c55124",
+      "backgroundColor": "#c55124",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 959875490,
+      "version": 837,
+      "versionNonce": 1449297470,
+      "isDeleted": false,
+      "boundElementIds": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}
