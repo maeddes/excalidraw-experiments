@@ -1,0 +1,163 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "ellipse",
+      "version": 762,
+      "versionNonce": 1399150071,
+      "isDeleted": false,
+      "id": "M8KxOZEO-BDhHdyiCfsWD",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 1.5709478628361326,
+      "x": 860.765625,
+      "y": 471.97675681280896,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 69.72482068672588,
+      "height": 61.872767857142954,
+      "seed": 1668683720,
+      "groupIds": [
+        "mrLHqD-ukToLc1O8nGyLb"
+      ],
+      "strokeSharpness": "round",
+      "boundElementIds": []
+    },
+    {
+      "type": "ellipse",
+      "version": 829,
+      "versionNonce": 12347641,
+      "isDeleted": false,
+      "id": "TO_2l8kN1TWjyklIuHZZq",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 1.5709478628361326,
+      "x": 869.0153641589377,
+      "y": 481.4802876618779,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 54.309445221293856,
+      "height": 45.478526612955704,
+      "seed": 1215178936,
+      "groupIds": [
+        "mrLHqD-ukToLc1O8nGyLb"
+      ],
+      "strokeSharpness": "round",
+      "boundElementIds": []
+    },
+    {
+      "type": "rectangle",
+      "version": 348,
+      "versionNonce": 1180008215,
+      "isDeleted": false,
+      "id": "xQGcbVWhBEa5JpOWNmq4r",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 850.453125,
+      "y": 509.1836445169048,
+      "strokeColor": "#000000",
+      "backgroundColor": "#ffffff",
+      "width": 91.09375000000001,
+      "height": 62.765625,
+      "seed": 1534058184,
+      "groupIds": [
+        "mrLHqD-ukToLc1O8nGyLb"
+      ],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "ellipse",
+      "version": 45,
+      "versionNonce": 320266713,
+      "isDeleted": false,
+      "id": "f7liabdXBvMD2PssWznxR",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 890.18359375,
+      "y": 526.0000507669048,
+      "strokeColor": "#000000",
+      "backgroundColor": "#000000",
+      "width": 14.73046875,
+      "height": 16.5703125,
+      "seed": 991449528,
+      "groupIds": [
+        "mrLHqD-ukToLc1O8nGyLb"
+      ],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "line",
+      "version": 409,
+      "versionNonce": 2007204919,
+      "isDeleted": false,
+      "id": "c56EGp3IAzGoWEV7rP6bM",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 901.026149530765,
+      "y": 541.8777441386429,
+      "strokeColor": "#000000",
+      "backgroundColor": "#000000",
+      "width": 12.501751283866566,
+      "height": 21.038117783365553,
+      "seed": 1587070408,
+      "groupIds": [
+        "mrLHqD-ukToLc1O8nGyLb"
+      ],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "startBinding": null,
+      "endBinding": null,
+      "points": [
+        [
+          -5.747687474589556,
+          0
+        ],
+        [
+          -9.21484375,
+          18.947727158556795
+        ],
+        [
+          3.286907533866568,
+          21.038117783365553
+        ],
+        [
+          -1.3428263650494547,
+          0.3382866094677324
+        ],
+        [
+          -5.747687474589556,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}
